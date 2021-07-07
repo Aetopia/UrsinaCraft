@@ -1,5 +1,5 @@
 # UrsinaCraft
-A Barebones Minecraft Clone made with the Ursina Engine and Python
+A Barebones Minecraft Clone made with the Ursina Engine and Python.
 
 ## UrsinaCraft Console
 If you simply run main.py then a console window will open up, you can type in launch arguments manually in this window.
