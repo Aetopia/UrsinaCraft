@@ -1,9 +1,9 @@
 # UrsinaCraft
 A Barebones Minecraft Clone made with the Ursina Engine and Python
 
-##UrsinaCraft Console
+## UrsinaCraft Console
 If you simply run main.py then a console window will open up, you can type in launch arguments manually in this window.
-###Manual Arguments
+### Manual Arguments
 1. Controls
    1. `layout wasd`; sets the layout to WASD (default)
    2. `layout ijkl`; sets the layout to IJKL
@@ -12,13 +12,13 @@ If you simply run main.py then a console window will open up, you can type in la
 3. Launch
    1. `run`; starts the game
 
-##Command Line Arguments
+## Command Line Arguments
 Its also possible to run the game from a .bat, .cmd, .nt .etc files.
 ###Available Arguments
 1. `-layout`; sets the layout to IJKL
 2. `-fpsdisplay`; toggle the ingame fps display
 
-##Dependencies
+## Dependencies
 You will the Ursina Engine installed to run this python project.
 Install with:
 
@@ -26,8 +26,8 @@ Install with:
 or
 `py -m pip install ursina`
 
-##Controls
-Controls for WASD and IJKL Layouts.
+## Controls
+Controls for the WASD and IJKL Layouts.
 ###WASD Layout
 W = Forwards
 S = Backwards
