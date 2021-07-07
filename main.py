@@ -86,7 +86,7 @@ def update():
     else:
         hand.passive()
 
-    if held_keys['5'] or held_keys['6'] or held_keys['7'] or held_keys['4'] or held_keys['3'] or held_keys['8'] or held_keys['`']:
+    if held_keys['5'] or held_keys['6'] or held_keys['7'] or held_keys['4'] or held_keys['3'] or held_keys['8'] or held_keys['delete']:
         hand.switchactive()
     else:
         hand.switchpassive()
@@ -109,7 +109,7 @@ def update():
             blockui.texture = 'planksui'
             hand.texture = 'planks' 
           
-        if held_keys['`']:
+        if held_keys['delete']:
             blockid = x
             blockui.texture = 'baseui'
             hand.texture = 'base'
@@ -131,7 +131,7 @@ def update():
             blockui.texture = 'planksui'
             hand.texture = 'planks'     
      
-        if held_keys['`']:
+        if held_keys['delete']:
             blockid = x
             blockui.texture = 'baseui'
             hand.texture = 'base'
