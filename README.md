@@ -19,7 +19,7 @@ Its also possible to run the game from a .bat, .cmd, .nt .etc files.
 2. `-fpsdisplay`; toggle the ingame fps display
 
 ## Dependencies
-You will the Ursina Engine installed to run this python project.
+You will need the Ursina Engine installed to run this python project.
 Install with:
 
 `pip install ursina`
