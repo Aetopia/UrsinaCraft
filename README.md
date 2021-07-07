@@ -12,7 +12,7 @@ If you simply run main.py then a console window will open up, you can type in la
 3. Launch
    1. `run`; starts the game
 
-## Command Line Arguments
+### Command Line Arguments
 Its also possible to run the game from a .bat, .cmd, .nt .etc files.
 ###Available Arguments
 1. `-layout`; sets the layout to IJKL
