@@ -45,6 +45,6 @@ Controls for the WASD and IJKL Layouts.
 * L = Right
 * 6 = Block 1
 * 7 = Block 2
-*8 = Block 3
+* 8 = Block 3
 * Delete = Base.png Block (Used for mapping textures)
 
