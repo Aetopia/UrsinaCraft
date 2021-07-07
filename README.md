@@ -28,23 +28,23 @@ or
 
 ## Controls
 Controls for the WASD and IJKL Layouts.
-###WASD Layout
-W = Forwards
-S = Backwards
-A = Left
-D = Right
-5 = Block 1
-4 = Block 2
-3 = Block 3
-Delete = Base.png Block (Used for mapping textures)
+### WASD Layout
+* W = Forwards
+* S = Backwards
+* A = Left
+* D = Right
+* 5 = Block 1
+* 4 = Block 2
+* 3 = Block 3
+* Delete = Base.png Block (Used for mapping textures)
 
-###WASD Layout
-I = Forwards
-K = Backwards
-J = Left
-L = Right
-6 = Block 1
-7 = Block 2
-8 = Block 3
-Delete = Base.png Block (Used for mapping textures)
+### IJKL Layout
+* I = Forwards
+* K = Backwards
+* J = Left
+* L = Right
+* 6 = Block 1
+* 7 = Block 2
+*8 = Block 3
+* Delete = Base.png Block (Used for mapping textures)
 
