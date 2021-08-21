@@ -5,12 +5,12 @@ A Barebones Minecraft Clone made with the Ursina Engine and Python.
 If you simply run main.py then a console window will open up, you can type in launch arguments manually in this window.
 ### Manual Arguments
 1. Controls
-   1. `layout wasd`; sets the layout to WASD (default)
-   2. `layout ijkl`; sets the layout to IJKL
+   1. `layout wasd`=> sets the layout to WASD (default)
+   2. `layout ijkl`=> sets the layout to IJKL
 2. HUD
-   1. `fps on/off`; toggles the ingame fps display (default=> off)
+   1. `fps on/off`=> toggles the ingame fps display (default=> off)
 3. Launch
-   1. `run`; starts the game
+   1. `run`=> starts the game
 
 ## Command Line Arguments
 It's also possible to run the game from a .bat, .cmd, .nt .etc files.
